@@ -3,7 +3,7 @@
 ### Used stack:
 - H2 database
 - Spring Data JPA
-- JFree & OpenPDF libraries
+- JFreeChart & OpenPDF libraries
 
 ### Steps to start:
 - Open the project & simply run it through **_ChartsProjectApplication_** main class
